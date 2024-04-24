@@ -5,6 +5,8 @@ parent: Talking Face Generation
 nav_order: 2
 ---
 
+{: .no_toc }
+
 # Summary
 
 [VASA-1] is a premiere model from Microsoft Research Asia, that is claimed to be "able to produce lip movements that are exquisitely synchronized with the audio, but also capturing a large spectrum of facial nuances and natural head motions that contribute to the perception of authenticity and liveliness."
