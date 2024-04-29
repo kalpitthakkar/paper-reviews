@@ -3,9 +3,8 @@ layout: default
 title: Talking Face Generation
 nav_order: 2
 has_children: true
+has_toc: false
 ---
-
-{: .no_toc }
 
 The task of talking face generation --> generating video of an identity (or identities) talking, given an audio clip (or clips) and an image (or images) of the identity (or identities), ensuring accurate lip-sync and natural emotion + facial dynamics based on the audio signal (or signals).
 Add-ons to the base task include:
@@ -39,6 +38,13 @@ Papers checked:
 * [MoDiTalker: Motion-Disentangled Diffusion Model for High-Fidelity Talking Head Generation][MoDiTalker]
 * [EMO: Emote Portrait Alive - Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions][EMO]
 * [FlowVQTalker: High-Quality Emotional Talking Face Generation through Normalizing Flow and Quantization][FlowVQTalker]
+* [Facechain-ImageID: ][FaceImageID]
+* [DreamTalk: ][DreamTalk]
+* [GAIA: ][GAIA]
+
+For ideas:
+* [Latent Image Animator: ][LIA]
+* [SyncTalk: ][SyncTalk]
 
 ----
 
@@ -48,3 +54,8 @@ Papers checked:
 [EMO]: emo
 [MoDiTalker]: moditalker
 [FlowVQTalker]: flowvqtalk
+[FaceImageID]: facechain_imageid
+[DreamTalk]: dreamtalk
+[GAIA]: gaia
+[LIA]: lia
+[SyncTalk]: synctalk

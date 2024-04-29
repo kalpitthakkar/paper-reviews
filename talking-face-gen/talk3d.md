@@ -5,8 +5,6 @@ parent: Talking Face Generation
 nav_order: 2
 ---
 
-{: .no_toc }
-
 # Summary
 
 [Talk3D] aims at rendering talking face video from novel-views that are 3D consistent.

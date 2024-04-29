@@ -5,8 +5,6 @@ parent: Talking Face Generation
 nav_order: 2
 ---
 
-{: .no_toc }
-
 # Summary
 
 [EDTalk] is another paper that aims at disentangling the facial expressions, identity
